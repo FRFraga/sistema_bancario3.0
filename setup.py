@@ -1,21 +1,16 @@
 from setuptools import setup, find_packages
 
-with open("README.md", "r") as f:
-    page_description = f.read()
-
-with open("requirements.txt") as f:
-    requirements = f.read().splitlines()
-
+<<<<<<< HEAD
 setup(
-    name="package_name",
-    version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
-    long_description=page_description,
-    long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
-    packages=find_packages(),
-    install_requires=requirements,
-    python_requires='>=3.8',
-)
+    name="bancodigital",
+    version="3.0.0",
+    author="Fernando Rodrigues Fraga",
+    description="Sistema bancário orientado a objetos",
+    packages=find_packages(include=['bancodigital*']),
+    install_requires=[],
+    entry_points={
+        'console_scripts': [
+            'bancodigital = bancodigital.core:main'
+        ]
+    },
+    python_requires='>=3.10'

@@ -1,27 +1,19 @@
-# package_name
+<<<<<<< HEAD
+# 💻 Sistema Bancário DIO v3.0.0 - Pacote POO
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-orange)
+![Version](https://img.shields.io/badge/Versão-3.0-ff69b4)
+![POO](https://img.shields.io/badge/Orientação_Objetos-100%25-success)
 
-## Installation
+Pacote Python profissional para gestão bancária com arquitetura modular e orientação a objetos. Desenvolvido por Fernando Rodrigues Fraga como projeto do Bootcamp DIO.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## 📦 Instalação
 
 ```bash
-pip install package_name
-```
+# Instalação via PyPI (quando publicado)
+pip install bancodigital
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
-
-## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+# Instalação local
+pip install -e .
