@@ -1,6 +1,5 @@
 from setuptools import setup, find_packages
 
-<<<<<<< HEAD
 setup(
     name="bancodigital",
     version="3.0.0",
@@ -14,3 +13,4 @@ setup(
         ]
     },
     python_requires='>=3.10'
+)
