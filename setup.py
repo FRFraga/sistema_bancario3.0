@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="bancodigital",
-    version="3.0.0",
+    version="3.0.1",
     author="Fernando Rodrigues Fraga",
     description="Sistema bancário orientado a objetos",
     packages=find_packages(include=['bancodigital*']),
