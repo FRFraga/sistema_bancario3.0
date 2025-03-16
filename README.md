@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💻 Sistema Bancário DIO v3.0.1 - Pacote POO
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
