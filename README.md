@@ -12,7 +12,7 @@ Pacote Python profissional para gestão bancária com arquitetura modular e orie
 
 ```bash
 # Instalação via PyPI (quando publicado)
-pip install bancodigital
+pip install bancodigital-frf
 
 # Instalação local
 pip install -e .
