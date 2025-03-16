@@ -9,7 +9,7 @@
 
 Pacote Python profissional para gestão bancária com arquitetura modular e orientação a objetos. Desenvolvido por Fernando Rodrigues Fraga como projeto do Bootcamp DIO.
 
-## 📦 Instalação
+## 📦 Instalação:
 
 ```bash
 # Instalação via PyPI (quando publicado)
